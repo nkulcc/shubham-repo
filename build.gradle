@@ -1,0 +1,24 @@
+task hello{
+doLast{
+println("first gradle task")
+}
+}
+
+task upper{
+String expString = 'Shubham Mishra'
+   println "Original: " + expString
+   println "Upper case: " + expString.toUpperCase()
+}
+
+task count << {
+   4.times { 
+    print "$it " 
+   }
+}
+
+task groovyJDK << {
+   String myName = "Marc";
+   myName.each() { 
+    println "${it}" 
+   };
+}
