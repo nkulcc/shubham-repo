@@ -1,0 +1,32 @@
+[DEBUG] 2021-06-23 12:20:24.007 [main] SpringloggingApplication - I am debug
+[INFO ] 2021-06-23 12:20:24.011 [main] SpringloggingApplication - I am info
+[ERROR] 2021-06-23 12:20:24.011 [main] SpringloggingApplication - I am error
+[WARN ] 2021-06-23 12:20:24.011 [main] SpringloggingApplication - I am warn
+[INFO ] 2021-06-23 12:20:24.380 [main] SpringloggingApplication - Starting SpringloggingApplication using Java 15.0.2 on ShubhamM-LP with PID 14145 (/home/cuelogic.local/shubham.mishra/Cuelogic/Projects/springlogging/target/classes started by shubham.mishra in /home/cuelogic.local/shubham.mishra/Cuelogic/Projects/springlogging)
+[DEBUG] 2021-06-23 12:20:24.381 [main] SpringloggingApplication - Running with Spring Boot v2.5.1, Spring v5.3.8
+[INFO ] 2021-06-23 12:20:24.382 [main] SpringloggingApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2021-06-23 12:20:24.926 [main] SpringloggingApplication - Started SpringloggingApplication in 0.842 seconds (JVM running for 1.694)
+[INFO ] 2021-06-23 15:37:37.182 [main] SpringloggingApplication - I am info
+[DEBUG] 2021-06-23 15:37:37.184 [main] SpringloggingApplication - I am debug
+[ERROR] 2021-06-23 15:37:37.185 [main] SpringloggingApplication - I am error
+[WARN ] 2021-06-23 15:37:37.185 [main] SpringloggingApplication - I am warn
+[INFO ] 2021-06-23 15:37:37.547 [main] SpringloggingApplication - Starting SpringloggingApplication using Java 15.0.2 on ShubhamM-LP with PID 17094 (/home/cuelogic.local/shubham.mishra/Cuelogic/Projects/springlogging/target/classes started by shubham.mishra in /home/cuelogic.local/shubham.mishra/Cuelogic/Projects/springlogging)
+[DEBUG] 2021-06-23 15:37:37.548 [main] SpringloggingApplication - Running with Spring Boot v2.5.1, Spring v5.3.8
+[INFO ] 2021-06-23 15:37:37.549 [main] SpringloggingApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2021-06-23 15:37:38.045 [main] SpringloggingApplication - Started SpringloggingApplication in 0.782 seconds (JVM running for 1.687)
+[INFO ] 2021-06-23 15:44:14.329 [main] SpringloggingApplication - I am info
+[DEBUG] 2021-06-23 15:44:14.331 [main] SpringloggingApplication - I am debug
+[ERROR] 2021-06-23 15:44:14.331 [main] SpringloggingApplication - I am error
+[WARN ] 2021-06-23 15:44:14.332 [main] SpringloggingApplication - I am warn
+[INFO ] 2021-06-23 15:44:14.666 [main] SpringloggingApplication - Starting SpringloggingApplication using Java 15.0.2 on ShubhamM-LP with PID 17678 (/home/cuelogic.local/shubham.mishra/Cuelogic/Projects/springlogging/target/classes started by shubham.mishra in /home/cuelogic.local/shubham.mishra/Cuelogic/Projects/springlogging)
+[DEBUG] 2021-06-23 15:44:14.667 [main] SpringloggingApplication - Running with Spring Boot v2.5.1, Spring v5.3.8
+[INFO ] 2021-06-23 15:44:14.667 [main] SpringloggingApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2021-06-23 15:44:15.143 [main] SpringloggingApplication - Started SpringloggingApplication in 0.747 seconds (JVM running for 1.616)
+[INFO ] 2021-06-25 18:44:48.100 [main] SpringloggingApplication - I am info
+[DEBUG] 2021-06-25 18:44:48.102 [main] SpringloggingApplication - I am debug
+[ERROR] 2021-06-25 18:44:48.103 [main] SpringloggingApplication - I am error
+[WARN ] 2021-06-25 18:44:48.103 [main] SpringloggingApplication - I am warn
+[INFO ] 2021-06-25 18:44:48.436 [main] SpringloggingApplication - Starting SpringloggingApplication using Java 15.0.2 on ShubhamM-LP with PID 10534 (/home/cuelogic.local/shubham.mishra/Cuelogic/Projects/springlogging/target/classes started by shubham.mishra in /home/cuelogic.local/shubham.mishra/Cuelogic/Projects/springlogging)
+[DEBUG] 2021-06-25 18:44:48.437 [main] SpringloggingApplication - Running with Spring Boot v2.5.1, Spring v5.3.8
+[INFO ] 2021-06-25 18:44:48.437 [main] SpringloggingApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2021-06-25 18:44:48.519 [main] SpringloggingApplication - Started SpringloggingApplication in 0.351 seconds (JVM running for 1.332)
